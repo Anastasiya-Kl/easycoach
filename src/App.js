@@ -1,7 +1,7 @@
 import React, { useRef, useMemo, useState } from 'react';
 import { Box, Button, Heading, Stack } from '@chakra-ui/react';
 import { CSVReader } from 'react-papaparse';
-import RTable from './RTable';
+import RTable from './components/RTable';
 import BarChart from './components/BarChart';
 import './App.css';
 
