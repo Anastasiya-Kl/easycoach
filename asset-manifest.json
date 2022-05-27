@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easycoach/static/css/main.1a4b454c.css",
+    "main.js": "/easycoach/static/js/main.12618ad4.js",
+    "index.html": "/easycoach/index.html",
+    "main.1a4b454c.css.map": "/easycoach/static/css/main.1a4b454c.css.map",
+    "main.12618ad4.js.map": "/easycoach/static/js/main.12618ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a4b454c.css",
+    "static/js/main.12618ad4.js"
+  ]
+}
