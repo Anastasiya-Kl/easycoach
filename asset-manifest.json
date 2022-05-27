@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/easycoach/static/css/main.196c6380.css",
-    "main.js": "/easycoach/static/js/main.12618ad4.js",
+    "main.js": "/easycoach/static/js/main.50bfcca6.js",
     "index.html": "/easycoach/index.html",
     "main.196c6380.css.map": "/easycoach/static/css/main.196c6380.css.map",
-    "main.12618ad4.js.map": "/easycoach/static/js/main.12618ad4.js.map"
+    "main.50bfcca6.js.map": "/easycoach/static/js/main.50bfcca6.js.map"
   },
   "entrypoints": [
     "static/css/main.196c6380.css",
-    "static/js/main.12618ad4.js"
+    "static/js/main.50bfcca6.js"
   ]
 }
